@@ -1,2 +1,2 @@
-# scala-native
+## Scala Native
 Playground for Scala Native
